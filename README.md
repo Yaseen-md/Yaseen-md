@@ -112,8 +112,6 @@ I’m on a journey to build smart, scalable, and sustainable digital solutions.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.yaseen22)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mmohammedyaseen87@gmail.com)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yaseen-md&icon=2&color=4" />
-</p>
+
 
 <!-- Built with 💡 by Yaseen | Customized using GPRM + ChatGPT -->
