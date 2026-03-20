@@ -28,6 +28,7 @@ ML engineer focused on **designing, training, and deploying AI systems** — not
 
 I care about interpretability, reliable inference, and building infrastructure that holds up under pressure.
 Currently deepening expertise in **MLOps**, **cloud engineering**, and **AI for healthcare & sustainability**.
+
 ```
 Depth over hype  ·  Clarity over noise  ·  Real execution over surface-level experimentation
 ```
@@ -38,42 +39,31 @@ Depth over hype  ·  Clarity over noise  ·  Real execution over surface-level e
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🧠 Brain Tumor Detection
-Deep learning medical imaging system.
-Grad-CAM explainability for clinical relevance.
+**🧠 Brain Tumor Detection**
+
+Deep learning medical imaging system. Grad-CAM explainability for clinical relevance.
 
 `PyTorch` `Grad-CAM` `Streamlit`
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 📉 Customer Churn Platform
-End-to-end pipeline on real Telco data.
-EDA → modeling → evaluation → deployment.
+**📉 Customer Churn Platform**
+
+End-to-end pipeline on real Telco data. EDA → modeling → evaluation → deployment.
 
 `scikit-learn` `Pandas` `MLflow`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
-### 🌱 Environmental Intelligence
-AI-powered analytics for sustainability.
-Research-driven problem solving.
+**🌱 Environmental Intelligence**
 
-`Research` `Python` `Data Analysis`
+AI-powered analytics for sustainability. Research-driven problem solving.
 
-</td>
-<td width="50%">
-
-### 🛠 CodeCanvas AI &nbsp;`in progress`
-Design-to-code platform.
-Real-time sync between design and production.
-
-`Next.js` `AI` `Node.js`
+`Python` `Data Analysis` `Research`
 
 </td>
 </tr>
@@ -82,6 +72,7 @@ Real-time sync between design and production.
 ---
 
 ## &nbsp;`> cat skills.txt`
+
 ```python
 ml_stack   = ["PyTorch", "TensorFlow", "scikit-learn", "MLflow", "Pandas", "NumPy"]
 viz        = ["Matplotlib", "Power BI", "Streamlit"]
@@ -96,15 +87,15 @@ devops     = ["Git", "Docker*", "CI/CD*", "AWS*", "GCP*"]   # * = actively learn
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=yaseen-md&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e8e8e8&text_color=888888&icon_color=aaaaaa" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Yaseen-md&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e8e8e8&text_color=888888&icon_color=aaaaaa" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseen-md&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e8e8e8&text_color=888888&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-md&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e8e8e8&text_color=888888&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaseen-md&hide_border=true&background=0d0d0d&ring=555555&fire=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555&stroke=222222&sideNums=e8e8e8&currStreakNum=e8e8e8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaseen-md&hide_border=true&background=0d0d0d&ring=555555&fire=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555&stroke=222222&sideNums=e8e8e8&currStreakNum=e8e8e8" />
 
 </div>
 
@@ -114,7 +105,7 @@ devops     = ["Git", "Docker*", "CI/CD*", "AWS*", "GCP*"]   # * = actively learn
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yaseen-md&theme=darkhub&no-frame=true&margin-w=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yaseen-md&theme=darkhub&no-frame=true&margin-w=8&column=4" />
 
 </div>
 
@@ -124,7 +115,7 @@ devops     = ["Git", "Docker*", "CI/CD*", "AWS*", "GCP*"]   # * = actively learn
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaseen-md&bg_color=0d0d0d&color=888888&line=444444&point=aaaaaa&area=true&area_color=222222&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yaseen-md&bg_color=0d0d0d&color=888888&line=444444&point=aaaaaa&area=true&area_color=222222&hide_border=true)
 
 </div>
 
