@@ -95,7 +95,7 @@ devops     = ["Git", "Docker*", "CI/CD*", "AWS*", "GCP*"]   # * = actively learn
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaseen-md&hide_border=true&background=0d0d0d&ring=555555&fire=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555&stroke=222222&sideNums=e8e8e8&currStreakNum=e8e8e8" />
+<img src="https://streak-stats.demolab.com/?user=Yaseen-md&hide_border=true&background=0d0d0d&ring=555555&fire=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555&stroke=222222&sideNums=e8e8e8&currStreakNum=e8e8e8" />
 
 </div>
 
