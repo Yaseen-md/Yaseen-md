@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-yaseen-843638223)&nbsp;
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmohammedyaseen87@gmail.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.yaseen22)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://myaseen-portfolio.vercel.app/)
 
 </div>
 
@@ -33,6 +33,8 @@ Currently deepening expertise in **MLOps**, **cloud engineering**, and **AI for 
 Depth over hype  ·  Clarity over noise  ·  Real execution over surface-level experimentation
 ```
 
+**Published research:** <!-- fill in: paper title, venue, link -->
+
 ---
 
 ## &nbsp;`> ls projects/`
@@ -41,29 +43,35 @@ Depth over hype  ·  Clarity over noise  ·  Real execution over surface-level e
 <tr>
 <td width="33%">
 
-**🧠 Brain Tumor Detection**
+**🧠 [Brain Tumor Detection](https://github.com/Yaseen-md/Brain-Tumor-Detector)**
 
 Deep learning medical imaging system. Grad-CAM explainability for clinical relevance.
 
 `PyTorch` `Grad-CAM` `Streamlit`
 
+<!-- fill in: e.g. "96% test accuracy on N MRI scans" -->
+
 </td>
 <td width="33%">
 
-**📉 Customer Churn Platform**
+**📉 Customer Churn Platform** <!-- fill in: link -->
 
 End-to-end pipeline on real Telco data. EDA → modeling → evaluation → deployment.
 
 `scikit-learn` `Pandas` `MLflow`
 
+<!-- fill in: e.g. "F1 0.XX, deployed via MLflow" -->
+
 </td>
 <td width="33%">
 
-**🌱 Environmental Intelligence**
+**🌱 Environmental Intelligence** <!-- fill in: link -->
 
 AI-powered analytics for sustainability. Research-driven problem solving.
 
 `Python` `Data Analysis` `Research`
+
+<!-- fill in: one concrete outcome or dataset scale -->
 
 </td>
 </tr>
